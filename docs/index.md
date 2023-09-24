@@ -17,6 +17,7 @@ hero:
   image:
     src: /vitepress-logo-large.webp
     alt: VitePress
+    ---
 
 features:
   - icon: 📝
