@@ -1,6 +1,5 @@
 ---
 layout: home
-
 title: ArabSupport.
 titleTemplate:Arab Support On Discord. 
 
