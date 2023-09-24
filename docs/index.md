@@ -2,7 +2,7 @@
 layout: home
 
 title: ArabSupport.
-titleTemplate:Arab Support On Discord. 
+titleTemplate: Arab Support On Discord. 
 
 hero:
   name: Arab Support 
@@ -14,7 +14,6 @@ hero:
     - theme: alt
       text: View on Discord
       link: https://discord.gg/gzEVNBSaKn
-      ---
   image:
     src: /vitepress-logo-large.webp
     alt: VitePress
