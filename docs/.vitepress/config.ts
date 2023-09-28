@@ -57,8 +57,8 @@ export default defineConfig({
     nav: nav(),
 
     sidebar: {
-      '/guide/': { base: '/guide/', items: sidebarGuide() },
-      '/reference/': { base: '/reference/', items: sidebarReference() }
+      '/DBlog/': { base: '/dblog/Ecosystem/DEVELOPERS-PITCH-YOUR-APP-TO-DISCORD/', items: sidebarGuide() },
+      '/Ecosystem/': { base: '/Ecosystem/DEVELOPERS-PITCH-YOUR-APP-TO-DISCORD.html/', items: sidebarReference() }
     },
 
     editLink: {
